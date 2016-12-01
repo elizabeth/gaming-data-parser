@@ -77,8 +77,8 @@ csv
     console.log("MtoF birth: " + MtoF);
     console.log("FtoM birth: " + FtoM);
     console.log("MtoFtoM identify: " + MtoFtoM);
-	console.log("FtoMtoF identify: " + FtoMtoF);
-	console.log("MtoMtoF identify: " + MtoMtoF);
-	console.log("FtoFtoM identify: " + FtoFtoM);
-    //ignore first row
+    console.log("FtoMtoF identify: " + FtoMtoF);
+    console.log("MtoMtoF identify: " + MtoMtoF);
+    console.log("FtoFtoM identify: " + FtoFtoM);
+
  });
